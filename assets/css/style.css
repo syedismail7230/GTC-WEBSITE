@@ -342,7 +342,7 @@ h6 {
 --------------------------------------------------------------*/
 #hero {
   width: 100%;
-  height: 80vh;
+  height: 100vh;
   background: url("../img/hero-bg.jpg") top center;
   background-size: cover;
   position: relative;
@@ -534,7 +534,7 @@ section {
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: 400px;
+  min-height: 600px;
 }
 
 @media (max-width: 991px) {
@@ -1295,7 +1295,7 @@ section {
   position: absolute;
   right: 0;
   left: 20px;
-  color: #a8dabc;
+  color: #a8bfda;
 }
 
 .faq .faq-list .icon-show,
@@ -1351,7 +1351,7 @@ section {
   color: #3878f0;
   border-radius: 50%;
   padding: 8px;
-  border: 2px dotted #cbe9d8;
+  border: 2px dotted #cbd6e9;
   float: left;
 }
 
